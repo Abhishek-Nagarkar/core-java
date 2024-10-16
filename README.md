@@ -82,10 +82,16 @@ Whereas `animal2` is a `reference` of `type Animal pointing to object of Dog cla
 
 ># *Interfaces*
 
+*`Interface`* is an abstract type which contains `Method collection` & `constant variables`  
 
+Used to achieve ***`Abstraction, Polymorphism & Multiple Inheritance`***.  
 
----
-<br></br>
+In an interface, we are basically allowed to use:
+1. Constant variables
+1. Abstract methods
+2. Static methods
+3. Default methods
 
-># *Interfaces*
+> *Interfaces can be empty too!*
 
+> *Interface variables are `public, static & final` by default. We can't change their visibility*.  
