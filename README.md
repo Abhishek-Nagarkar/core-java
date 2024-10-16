@@ -69,11 +69,20 @@ Animal is moving
 Dog is moving*
 
 Here `animal` is a `reference` of `type Animal pointing to object of Animal class`.
+Here `animal` is a `reference` of `type Animal pointing to object of Animal class`.
 
+Whereas `animal2` is a `reference` of `type Animal pointing to object of Dog class` ***(Base reference pointing to Child object)***.
 Whereas `animal2` is a `reference` of `type Animal pointing to object of Dog class` ***(Base reference pointing to Child object)***.
 
 > ***References are stored in Stack memory.  
 > Objects are stored in heap memory.***
+
+---
+<br></br>
+
+># *Interfaces*
+
+
 
 ---
 <br></br>
